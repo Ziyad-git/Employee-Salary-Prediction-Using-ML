@@ -4,7 +4,7 @@ This repository contains a machine learning project that predicts whether an emp
 
 ## Table of Contents
 
-* [Project Overview]
+* Project Overview
 
 * [Dataset]
 
