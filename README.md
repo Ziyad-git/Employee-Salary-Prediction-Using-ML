@@ -4,21 +4,21 @@ This repository contains a machine learning project that predicts whether an emp
 
 ## Table of Contents
 
-* [Project Overview](https://www.google.com/search?q=%23project-overview)
+* [Project Overview]
 
-* [Dataset](https://www.google.com/search?q=%23dataset)
+* [Dataset]
 
-* [Methodology](https://www.google.com/search?q=%23methodology)
+* [Methodology]
 
-* [Results](https://www.google.com/search?q=%23results)
+* [Results]
 
-* [Streamlit Application](https://www.google.com/search?q=%23streamlit-application)
+* [Streamlit Application]
 
-* [Installation and Usage](https://www.google.com/search?q=%23installation-and-usage)
+* [Installation and Usage]
 
-* [Contributing](https://www.google.com/search?q=%23contributing)
+* [Contributing]
 
-* [License](https://www.google.com/search?q=%23license)
+* [License]
 
 ## Project Overview
 
